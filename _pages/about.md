@@ -12,18 +12,15 @@ Hi, I am currently a postdoctoral researcher at [CUHK-Shenzhen](https://www.cuhk
 
 
 
-<span style="color:red">News</span>
-======
+# <span style="color:red">News</span>
 * <span style="color:red">New!!</span> Place your news here
 
-Research Interests
-======
+# Research Interests
 * Aggregation-induced Emission (AIE)
 * Aggregation Science
 * Polymer Functional Materials
 
-Selected Publications
-======
+# Selected Publications
 * one
 * two
 * three
