@@ -9,11 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-# Education
+## Education
 * PhD in Chemistry, Birla Institute of Technology and Science, 2016
 * MS in Chemistry, Deen Dayal Upadhyay Gorakhpur University, 2007
 
-# Work Experience
+## Work Experience
 * 2023/06 - Present: Postdoctoral Researcher
   * The Chinese University of Hong Kong, Shenzhen
   * CUHKSZ-Tang's Lab
