@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Dr. Alam Parvej's Home Page"
 title_separator          : "-"
 name                     : &name "Dr. Alam Parvej"
-description              : &description "Postdoctoral researcher in the Molecular Aggregate Science Lab - CUHKSZ"
+description              : &description "Postdoctoral researcher in the Molecular Aggregate Science Lab of CUHK-Shenzhen"
 url                      : https://alam-parvej.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/home" # the subpath of your site, e.g. "/blog"
 repository               : "alam-parvej.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Dr. Alam Parvej"
   avatar           : "profile-pic.jpg"
-  bio              : "Postdoctoral Researcher, CUHK-Shenzhen, Molecular Aggregate Science Lab"
+  bio              : "Postdoctoral Researcher \nCUHK-Shenzhen \nMolecular Aggregate Science Lab"
   location         : "Shenzhen, China"
   employer         : "CUHK-Shenzhen"
   pubmed           : 
