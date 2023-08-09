@@ -6,17 +6,17 @@ main:
   - title: "Projects"
     url: /projects/
 
-  - title: "Talks"
-    url: /talks/    
+  # - title: "Talks"
+  #   url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  # - title: "Teaching"
+  #   url: /teaching/    
     
   - title: "Students"
     url: /students/
         
-  - title: "Services"
-    url: /services/
+  # - title: "Services"
+  #   url: /services/
     
   - title: "CV"
     url: /cv/
