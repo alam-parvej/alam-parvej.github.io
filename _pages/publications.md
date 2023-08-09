@@ -5,13 +5,40 @@ permalink: /publications/
 author_profile: true
 ---
 
+[Google Scholar](https://scholar.google.co.in/citations?view_op=list_works&hl=en&hl=en&user=F-WWbo8AAAAJ&sortby=pubdate)
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+Preprints
+======
+* One
+* Two
+* Three
 
-{% include base_path %}
+2023
+======
+* One
+* Two
+* Three
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+2022
+======
+* One
+* Two
+* Three
+
+2021
+======
+* One
+* Two
+* Three
+
+2020
+======
+* One
+* Two
+* Three
+
+2019 and before
+======
+* One
+* Two
+* Three
