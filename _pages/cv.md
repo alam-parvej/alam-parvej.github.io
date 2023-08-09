@@ -11,21 +11,14 @@ redirect_from:
 \
 Education
 ======
-* B.S. in Chemistry, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Postdoctoral Researcher, The Hong Kong University of Science and Technology, 2023
+* PhD in Chemistry, Birla Institute of Technology and Science, 2016
+* MS in Chemistry, Deen Dayal Upadhyay Gorakhpur University, 2007
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* June 2007 - December 2010: Senior Research Chemist
+  * TCG Lifesciences Pvt Ltd
   
 Skills
 ======
@@ -35,6 +28,10 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
+
+Hello
+======
+* 112
 
 Publications
 ======
