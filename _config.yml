@@ -7,11 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-<<<<<<< HEAD
-title                    : "Dr. Alam Parvej's Home Page"
-=======
 title                    : "Dr. Alam Parvej"
->>>>>>> parent of 53eef7b (Update _config.yml)
 title_separator          : "-"
 name                     : &name "Dr. Alam Parvej"
 description              : &description "Postdoctoral researcher in the Molecular Aggregate Science Lab - CUHKSZ"
