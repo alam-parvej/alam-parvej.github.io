@@ -9,48 +9,20 @@ redirect_from:
 
 {% include base_path %}
 \
+
 Education
 ======
-* Postdoctoral Researcher, The Hong Kong University of Science and Technology, 2023
 * PhD in Chemistry, Birla Institute of Technology and Science, 2016
 * MS in Chemistry, Deen Dayal Upadhyay Gorakhpur University, 2007
 
-Work experience
+Work Experience
 ======
-* June 2007 - December 2010: Senior Research Chemist
+* 2023/06 - Present: Postdoctoral Researcher
+  * The Chinese University of Hong Kong, Shenzhen
+  * CUHKSZ-Tang's Lab
+
+* 2016/04 - 2023/06: Postdoctoral Researcher
+  * The Hong Kong University of Science and Technology
+
+* 2007/06 - 2010/12: Senior Research Chemist
   * TCG Lifesciences Pvt Ltd
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Hello
-======
-* 112
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
