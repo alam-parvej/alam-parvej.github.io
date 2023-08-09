@@ -12,9 +12,9 @@ Hi, I am currently a postdoctoral researcher at [CUHK-Shenzhen](https://www.cuhk
 
 
 
-<span style="color:red">What's New</span>
+<span style="color:red">News</span>
 ======
-* <span style="color:red">New!!</span> Three papers are accepted to ICLR'2022. Congrats to Shengchao Liu, Meng Qu, Minkai Xu, Huiyu Cai, Chence Shi.
+* <span style="color:red">New!!</span> Place your news here
 
 Research Interests
 ======
