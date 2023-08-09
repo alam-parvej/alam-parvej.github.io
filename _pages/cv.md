@@ -8,8 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-
-
+\
 Education
 ======
 * B.S. in Chemistry, GitHub University, 2012
