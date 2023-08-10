@@ -15,14 +15,14 @@ His current research interests include the development of Near Infra-red (NIR) e
 Dr. Alam significantly contributed to the field throughout his doctoral and postdoctoral journey, publishing several groundbreaking papers in renowned journals. So far, Prof. Alam has published over 41 SCI papers, including 23 SCI papers published by the first author / corresponding author in top journals, such as JACS, Adv. Mater., Adv. Funct. Mater., Nat. Commun., Angew. Chem., ACS Nano, Small, etc., with 14 papers' impact factor greater than 14. The total citations are over 1800 times, and the H index is 27. 
 
 
-
 # <span style="color:red">News</span>
-* <span style="color:red">New!!</span> Place your news here
+* 
 
 # Research Interests
-* Aggregation-induced Emission (AIE)
-* Aggregation Science
-* Polymer Functional Materials
+* Aggregation-induced Emissive (AIE) materials
+* Near Infra-red (NIR) emissive organic materials
+* Room temperature phosphorescent
+
 
 # Selected Publications
 * one
