@@ -7,6 +7,8 @@ author_profile: true
 
 [Google Scholar](https://scholar.google.co.in/citations?view_op=list_works&hl=en&hl=en&user=F-WWbo8AAAAJ&sortby=pubdate)
 
+<!-- STYLE: Chem -->
+
 ## Preprints
 * Wang, H., Li, Q., **Alam, P.**, Bai, H., Bhalla, V., Bryce, M.R., Cao, M., Chen, C., Chen, S., Chen, X., et al. (2023). Aggregation-Induced Emission (AIE), Life and Health. ACS nano.
 
