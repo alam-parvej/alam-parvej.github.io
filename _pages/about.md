@@ -16,7 +16,7 @@ Dr. Alam significantly contributed to the field throughout his doctoral and post
 
 
 # <span style="color:red">News</span>
-* 
+
 
 # Research Interests
 * Aggregation-induced Emissive (AIE) materials
@@ -25,6 +25,3 @@ Dr. Alam significantly contributed to the field throughout his doctoral and post
 
 
 # Selected Publications
-* one
-* two
-* three
