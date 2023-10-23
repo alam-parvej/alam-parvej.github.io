@@ -10,9 +10,11 @@ author_profile: true
 <!-- STYLE: Chem -->
 
 ## Preprints
-* Wang, H., Li, Q., **Alam, P.**, Bai, H., Bhalla, V., Bryce, M.R., Cao, M., Chen, C., Chen, S., Chen, X., et al. (2023). Aggregation-Induced Emission (AIE), Life and Health. ACS nano.
+* Meng, P., Lau, A., Zhao, Z., **Alam, P.**, Qiu, Z.,Tang, B.Z. Modulating Molecular Aggregation of Luminogens: Bridging the Gap Between Solutions and Solids. ChemRxiv.
 
 ## 2023
+* Cai, X.M., Lin, Y., Zhang, J., Li, Y., Tang, Z., Zhang, X., Jia, Y., Wang, W., Huang, S., **Alam, P.**, et al. (2023). Chromene-based BioAIEgens:“in water” synthesis, regiostructure-dependent fluorescence and ER-specific imaging. National Science Review, nwad233.
+* Wang, H., Li, Q., **Alam, P.**, Bai, H., Bhalla, V., Bryce, M.R., Cao, M., Chen, C., Chen, S., Chen, X., et al. (2023). Aggregation-induced emission (AIE), life and health. ACS nano 17, 14347–14405.
 * Zhang, M., Zhang, J., **Alam, P.**, Li, W., Lam, J.W., Jia, G., and Tang, B.Z. (2023). Hydrazone-Based AIEgens with Photofluorochromic Ability for Rewritable, Intensity-Variable, and High-Resolution Photopattern. Advanced Functional Materials 33, 2213927.
 
 ## 2022
