@@ -7,10 +7,16 @@ author_profile: true
 
 [Google Scholar](https://scholar.google.co.in/citations?view_op=list_works&hl=en&hl=en&user=F-WWbo8AAAAJ&sortby=pubdate)
 
-<!-- STYLE: Chem -->
+<!-- STYLE: Chem Zotero -->
 
 ## Preprints
 * Meng, P., Lau, A., Zhao, Z., **Alam, P.**, Qiu, Z.,Tang, B.Z. Modulating Molecular Aggregation of Luminogens: Bridging the Gap Between Solutions and Solids. ChemRxiv.
+
+
+## 2024
+* Deng, Z., Zhang, J., Zhou, J., Shen, W., Zuo, Y., Wang, J., Yang, S., Liu, J., Chen, Y., Chen, C., Jia, G., **Alam, P.**, et al. (2024). Dynamic Transition between Monomer and Excimer Phosphorescence in Organic Near‐Infrared Phosphorescent Crystals. Advanced Materials, 2311384. 10.1002/adma.202311384.
+
+
 
 ## 2023
 * Cai, X.M., Lin, Y., Zhang, J., Li, Y., Tang, Z., Zhang, X., Jia, Y., Wang, W., Huang, S., **Alam, P.**, et al. (2023). Chromene-based BioAIEgens:“in water” synthesis, regiostructure-dependent fluorescence and ER-specific imaging. National Science Review, nwad233.
