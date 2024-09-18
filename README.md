@@ -1,1 +1,1 @@
-This is Dr. Alam Parvej's personal GitHub page.
+This is Prof. Alam Parvej's personal GitHub page.
